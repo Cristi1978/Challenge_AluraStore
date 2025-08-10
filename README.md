@@ -78,4 +78,12 @@ El análisis concluye que la Tienda 4 debería ser vendida, ya que es la que pre
 * Mayor debilidad operativa.
 
 
+
 Gracias al uso de Python, Pandas y Matplotlib, el proyecto brinda una solución clara y efectiva basada en datos.
+
+
+
+
+**Desarrollado por Cristina Valenzuela**.
+
+**Curso: Formación en Data Science - Alura Latam**
